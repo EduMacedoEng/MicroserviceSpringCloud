@@ -1,4 +1,4 @@
-package com.amigoscode.customer;
+package com.amigoscode.customer.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

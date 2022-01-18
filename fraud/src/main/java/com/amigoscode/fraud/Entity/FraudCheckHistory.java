@@ -1,4 +1,4 @@
-package com.amigoscode.fraud;
+package com.amigoscode.fraud.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
